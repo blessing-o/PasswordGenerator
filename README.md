@@ -11,7 +11,7 @@ N/A
 
 
 ## Screenshot
-![Alt text](<Screenshot 2023-11-14 225143.png>)
+![Alt text](PasswordGeneratorDeployed.png)
 
 ## Usage
 
